@@ -1,1 +1,2 @@
-# algo_project
+# algo_project 
+A three day hackthon
