@@ -15,7 +15,7 @@ Final outputs include:
 - Coding question links table (CSV)
 - A polished PDF report for interview preparation
 
-This solution is ideal for anyone seeking a structured, data-driven approach to SDE interview prep, especially for SDE-1 roles[1][2].
+This solution is ideal for anyone seeking a structured, data-driven approach to SDE interview prep, especially for SDE-1 roles.
 
 ---
 
@@ -58,5 +58,4 @@ This solution is ideal for anyone seeking a structured, data-driven approach to 
 - Ensure you have a valid Groq API key for AI summarization.
 - PDF and CSV outputs are ready for direct use in interview preparation or sharing.
 
-[1] programming.prompt_engineering
-[2] programming.data_processing
+
