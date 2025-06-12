@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from weasyprint import HTML
 import markdown
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY", "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"))
+client = Groq(api_key=os.getenv("GROQ_API_KEY", "GROQ_API_KEY))
 BASE_URL = "https://www.geeksforgeeks.org/interview-experiences/experienced-interview-experiences-company-wise/"
 
 def infer_role_and_years(title):
