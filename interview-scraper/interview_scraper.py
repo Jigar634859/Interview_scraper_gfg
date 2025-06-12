@@ -10,7 +10,8 @@ from groq import Groq
 import matplotlib.pyplot as plt
 from weasyprint import HTML
 import markdown
-
+from dotenv import load_dotenv
+load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY", "GROQ_API_KEY))
 BASE_URL = "https://www.geeksforgeeks.org/interview-experiences/experienced-interview-experiences-company-wise/"
 
